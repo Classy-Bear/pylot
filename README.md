@@ -20,6 +20,17 @@ Enjoy :)
 
 ## App Preview
 
-![Exam preview](gifs/exam.gif)
-![Planets preview](gifs/planets.gif)
-![Themes preview](gifs/themes.gif)
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="gifs/exam.gif"width="250"/>
+            </td>            
+            <td style="text-align: center">
+                    <img src="gifs/planets.gif"width="250"/>
+            </td>  
+            <td style="text-align: center">
+                    <img src="gifs/themes.gif"width="250"/>
+            </td>  
+    </table>
+</div>

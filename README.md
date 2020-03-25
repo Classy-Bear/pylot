@@ -1,7 +1,6 @@
-# pylot
+# Pylot
 
 A app of planets that are in our solar system. This app displays a list of quizzes of the solar system, also has a list of planets where you can study from it. There are themes preferences and animations preferences that are stored to the user.
-
 
 ## Pre-requisites
 
@@ -18,3 +17,9 @@ flutter pub get
 flutter run
 ``
 Enjoy :)
+
+## App Preview
+
+![Exam preview](gifs/exam.gif)
+![Planets preview](gifs/planets.gif)
+![Themes preview](gifs/themes.gif)
